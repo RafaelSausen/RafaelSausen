@@ -7,12 +7,6 @@
 
 ## Languages & Tools:
 
-<style>
-table, th, td, tr {
-  align: center
-}
-</style>
-
 <br>
 <table>
 <tr>

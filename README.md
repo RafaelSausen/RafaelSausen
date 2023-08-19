@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @RafaelSausen, I'm a developer who loves to code and solve problems.
   I worked more than 10 years in a software house that used Windev, Windev Mobile and Webdev to develop solutions for commercial automation. The main database of this company was PostgreSQL, but I had some experiences using SQLServer, MariaDB, MySQL and others databases.
-  Recently (almost two year), I had the oportunity to work with others tools and I liked a lot, so now I'm looking for activities that can improve my knowledge in those tools.
+  Recently, I had the oportunity to work with others tools and I liked a lot, so now I'm looking for activities that can improve my knowledge in those tools.
 - 👀 I’m interested in Mobile and API development.
 - 🌱 I’m currently learning Flutter, TypeScript, Laravel. (Always learning)
 - 💞️ I’m looking to collaborate on some projects to improve my abilities.
